@@ -14,5 +14,8 @@ public class TestSample {
 		System.out.println(data.get(2));
 		System.out.println(data.get(3));
 	}
+	public void change() {
+		System.out.println("change");
+	}
 
 }
